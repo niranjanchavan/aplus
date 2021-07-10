@@ -3,8 +3,7 @@
     "id": 1,
     "name": "Aplus",
   "version": "5.0",
-    "key": "xRaVplusPhardN0jCodeSeKc5ueyre",
-    "js" : "$('a').click(function (e) {	e.preventDefault();	}); alert('ok');"
+    "key": "xRaVplusPhardN0jCodeSeKc5ueyre"
   }
  
   ]
