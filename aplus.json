@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Aplus",
   "version": "7.0",
+    "confirm" false,
     "key": "xRaVplusPhardN0jCodeSeKc6ueyre",
     "showmsg":false,
     "msg": "Sorry for the inconvenience"
